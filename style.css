@@ -1,0 +1,16 @@
+header{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    border: solid 1px black;
+}
+main{
+    border: solid 1px black;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.mainimg{
+    width: 200px;
+}
